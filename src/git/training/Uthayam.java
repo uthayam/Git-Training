@@ -10,4 +10,16 @@ package git.training;
  */
 public class Uthayam {
     
+    private String hello; 
+    
+    public void setMessage(String message)
+    {
+        hello = message;  
+    }
+    
+    public String getMessage()
+    {
+        return hello; 
+    }
+          
 }
