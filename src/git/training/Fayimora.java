@@ -11,6 +11,6 @@ package git.training;
 public class Fayimora {
     public static void main(String[] args)
     {
-    	System.out.println("Yeah its meee!! Fayimora...nbew change");
+    	System.out.println("Yeah its meee!! Fayimora...new change");
     }
 }
