@@ -9,5 +9,8 @@ package git.training;
  * @author fayimora
  */
 public class Fayimora {
-    
+    public static void main(String[] args)
+    {
+    	System.out.println("Yeah its meee!! Fayimora");
+    }
 }
